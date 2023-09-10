@@ -4,8 +4,9 @@
 module.exports = {
   siteMetadata: {
     title: `bharat`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://jackbush.github.io/bharat/`,
   },
+  pathPrefix: "/bharat",
   plugins: [
     "gatsby-plugin-postcss",
     "gatsby-plugin-image",
